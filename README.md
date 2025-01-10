@@ -9,7 +9,7 @@
 
 🚩 All of my projects are available at [https://sites.google.com/view/arman-hossain-rajib/projects/](https://sites.google.com/view/arman-hossain-rajib/projects/)
 
-💬 Ask me about **React, React Native, Django (DRF), SQL & ML**
+💬 Ask me about **React, Nextjs, React Native, Nodejs, Django (DRF), SQL & ML**
 
 📧 How to reach me **armanrajibbutex@gmail.com**
 
