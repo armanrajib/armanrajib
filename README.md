@@ -38,7 +38,8 @@
 <br/>
  
 <hr/>
-<h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
+
+<h2 align="center">⚔ Languages, Frameworks & Tools ⚔</h2>
 <br/>
 
 <table>
@@ -54,9 +55,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react" />
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
-    </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=next" width="40" height="40" alt="nextjs" />
     </td>
@@ -69,6 +67,9 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongo" width="40" height="40" alt="mongodb" />
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pug" width="40" height="40" alt="pug" />
+    </td>
   </tr>
   <tr>    
 <td align="center" width="96"> 
@@ -78,12 +79,9 @@
         <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
     </td>
 <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="sass" />
     </td>
 <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-    </td>
-<td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
     </td>
    <td align="center" width="96">
@@ -92,6 +90,9 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
     </td>
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="vitest" />
     </td>
@@ -99,6 +100,9 @@
  <tr>     
 <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="python" />
+    </td>
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="anaconda" />
     </td>
 <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="django" />
@@ -116,11 +120,8 @@
         <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="prisma" />
     </td>
 <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
+        <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="kali" />
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pug" width="40" height="40" alt="pug" />
-     </td>
  </tr>
 </table>
 </table>
@@ -148,5 +149,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
- <hr/>
- 
+
