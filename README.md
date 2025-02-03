@@ -162,3 +162,15 @@
 </p>
 
 
+ <hr/>
+<h2 align="center">🎮 Interests 🎮</h2>
+<br/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="40" height="40" />
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" alt="Azure" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+</p>
