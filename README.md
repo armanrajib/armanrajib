@@ -35,6 +35,18 @@
 <a href="https://leetcode.com/u/armanrajib/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height=45 withd=45 /></a>
 <a href="https://github.com/armanrajib" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 </p>
+
+<br/>
+
+<div align="center">
+<a href="https://leetcode.com/u/armanrajib/" target="blank"><img src="https://leetcard.jacoblin.cool/armanrajib?theme=radical&ext=heatmap"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://app.daily.dev/armanrajib"><img src="https://api.daily.dev/devcards/v2/9CoTPUIDqeiCALZxi80Us.png?type=default&r=mvi" width="356" alt="Arman Rajib's Dev Card"/></a>
+</div>
 <br/>
  
 <hr/>
