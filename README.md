@@ -84,19 +84,19 @@
     </td>
   </tr>
   <tr>    
-<td align="center" width="96"> 
+    <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
     </td>
-<td align="center"  width="96">
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="sass" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
     </td>
     <td align="center"  width="96">
@@ -109,29 +109,29 @@
         <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="vitest" />
     </td>
   </tr>
- <tr>     
-<td align="center" width="96">
+  <tr>     
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="python" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="anaconda" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="django" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="postgres" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="supabase" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="prisma" />
     </td>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="kali" />
     </td>
  </tr>
@@ -146,23 +146,28 @@
 <br/>
 
 <div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanrajib&&theme=radical" alt="armanrajib" />
-<br/> <br/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanrajib&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="armanrajib" />
-<br>
-<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanrajib&&theme=radical" alt="armanrajib" />
+<br/>
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrajib&show_icons=true&locale=en&&theme=radical" alt="armanrajib" />
-  <br/><br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanrajib&show_icons=true&locale=en&layout=compact&&theme=radical" alt="armanrajib" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=armanrajib&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="armanrajib" />
+<br/>
+
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrajib&show_icons=true&locale=en&&theme=radical" alt="armanrajib" />
+<br/>
+
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanrajib&show_icons=true&locale=en&layout=compact&&theme=radical" alt="armanrajib" />
 </div>
 <br/>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-
- <hr/>
+<hr/>
+ 
 <h2 align="center">🎮 Interests 🎮</h2>
 <br/>
 <p align="center">
