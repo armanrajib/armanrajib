@@ -20,7 +20,7 @@
 
 📧 How to reach me **armanrajibbutex@gmail.com**
 
-📃 Know about my experiences [here](https://drive.google.com/file/d/138e1Yf3UEAOy8ipYPqPWhfNXrun8JoBm/view?usp=sharing)
+📃 Know about my experiences [here](https://portfolio-armanrajib.vercel.app/resume)
 
 </br>
 
