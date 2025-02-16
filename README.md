@@ -14,7 +14,7 @@
 
 ⏳ I’m currently building **The Wild Oasis** website using **Next.js**
 
-🚩 All of my projects are available at [here](https://sites.google.com/view/arman-hossain-rajib/projects/)
+🚩 All of my projects are available at [here](https://portfolio-armanrajib.vercel.app/projects)
 
 💬 Ask me about **React, Nextjs, React Native, Nodejs, Django (DRF), SQL & ML**
 
